@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "cs50.h": "c",
+        "string.h": "c",
+        "float.h": "c",
+        "limits.h": "c",
+        "stdarg.h": "c",
+        "stdbool.h": "c",
+        "stddef.h": "c"
+    }
+}
