@@ -1,3 +1,9 @@
-*.o
+# Ignore all files
 *
+
+# Except these...
+!*/
 !*.*
+
+# Include C source files
+!*.c
