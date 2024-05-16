@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort (slow Big O, fast Omega)
+
+How do you know?: Takes 4.64s to sort reversed list; takes 0.33s to sort sorted list 
+
+sort2 uses: Merge Sort (fast Big O, fast Omega)
+
+How do you know?: Takes 0.27s to sort reversed list; takes 0.45s to sort sorted list
+
+sort3 uses: Selection Sort (medium Big O and Omega)
+
+How do you know?: Takes 2.25s to to sort reversed list; takes 1.99s to sort sorted list
