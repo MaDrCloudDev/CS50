@@ -7,5 +7,6 @@
         "stdarg.h": "c",
         "stdbool.h": "c",
         "stddef.h": "c"
-    }
+    },
+    "terminal.integrated.localEchoStyle": "dim"
 }
