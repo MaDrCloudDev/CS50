@@ -1,1 +1,9 @@
-print("hello, world")
+# from cs50 import get_string
+
+# answer = get_string("What's your name? ")
+# print(f"Hello, {answer}")
+
+# Better way below
+
+answer = input("What's your name? ")
+print(f"Hello, {answer}")
